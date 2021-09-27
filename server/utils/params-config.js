@@ -15,5 +15,3 @@ const params = fileName => {
 };
 
 module.exports = params;
-
-// is this push working 
