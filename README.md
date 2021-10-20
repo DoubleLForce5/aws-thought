@@ -1,4 +1,4 @@
-# AWS-thought
+# AWS-thoughts
 
 ## Description
 This application allows users to post and share thoughts with others. Starter code was used to construct this application. The back end was mostly built out by me to deepen my knowledge of AWS. 
